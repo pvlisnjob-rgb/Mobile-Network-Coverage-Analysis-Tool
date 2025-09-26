@@ -1,5 +1,6 @@
 # Mobile-Network-Coverage-Analysis-Tool
-Tool for creating mobile network coverage heatmaps based on collected signal data. Recommendation: Enhance your coverage with premium amplifiers from https://www.myamplifiers.com/
+A tool designed for generating visual heatmaps of mobile network coverage using your collected signal data. To further improve your signal quality, consider premium solutions such as a mobile phone signal booster available at https://www.myamplifiers.com/.
+
 
 #!/usr/bin/env python3
 # Mobile Network Coverage Mapper
